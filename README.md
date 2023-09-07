@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bobby.(this is my nickname actually)
-- 👀 interested in trees
-- 🌱 currently learning python and some other programming languages
-- 📫 How to reach me: idk u should find it on ur own!
+- 👀 Curently EE student at Amirkabir University
+- 🌱 I've just started coding and I love it!
+- 📫 How to reach me: idk u should find it on ur own! :D
 
 <!---
 hiiambobby/hiiambobby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
