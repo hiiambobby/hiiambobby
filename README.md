@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bobby.(this is my nickname actually)
-- 👀 Curently EE student at Amirkabir University
+- 👀 Curently CE student at Amirkabir University
 - 🌱 I've just started coding and I love it!
 - 📫 How to reach me: idk u should find it on ur own! :D
 
