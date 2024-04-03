@@ -1,2 +1,2 @@
 -Hiya this is Saba.
--Currently focusing on keeping the urge to live in this planet =0)
+-Currently focusing on keeping the urge to live on this planet =0)
