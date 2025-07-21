@@ -1,4 +1,3 @@
--Currently focusing on keeping the urge to live on this planet =0)
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
