@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Saba (AKA Bobby)<br><br>- 🔭 I’m working as a research assistant right now<br>- 📚 I'm currently learning DL/ML<br>- ⚡ In my free time I watch Dexter and make crochet starts :3</p>
+<p align="left">I'm Saba (AKA Bobby)<br><br>- 🔭 I’m working as a research assistant right now<br>- 📚 I'm currently learning DL/ML<br>- ⚡ In my free time I watch Dexter and make crochet stars :3</p>
 
 ###
 
