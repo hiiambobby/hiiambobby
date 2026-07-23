@@ -1,14 +1,13 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Greeting GIF" />
   <h1>Hiya, I'm Saba (aka Bobby) 👋</h1>
-  <p><i>Research Assistant | DL/ML Enthusiast | Star Crocheter</i></p>
+  <p><i>Research Assistant | DL/ML Enthusiast </i></p>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/saba-seyed-tabaei-00b582248" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&" height="25" alt="visitor badge" />
 </div>
 
 ---
@@ -51,9 +50,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</div>
