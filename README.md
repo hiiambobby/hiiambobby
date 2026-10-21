@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hiya, I'm Saba — also known as Bobby 👋
+# Hiya, I'm Saba👋
 
 ### AI Researcher | Explainable AI · Computer Vision · Vision-Language Models
 
@@ -28,20 +28,6 @@ that are understandable, reliable, and useful to people.
 - 👁️ My current experience includes **computer vision, image captioning, vision-language models, and natural-language explanations**.
 - 🌱 I am currently exploring research across both **computer vision and NLP**.
 - 🧶 Outside research, I enjoy watching *Dexter* and making crochet stars :3
-
----
-
-## 🔍 Current Research
-
-### Vision-Language Image Captioning
-
-Studying image-captioning approaches based on vision-language models, including **CLIP**, and exploring the use of **Diffusion Language Models** for caption generation.
-
-### Explainable AI
-
-My undergraduate thesis explores how visual explanations from image-classification models can be translated into understandable natural-language explanations.
-
-I am particularly interested in the difference between an explanation that sounds reasonable and one that faithfully represents the model's actual decision process.
 
 ---
 
@@ -87,17 +73,7 @@ I am particularly interested in the difference between an explanation that sound
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
 </p>
 
-### Web and Databases
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="SQL" />
-</p>
 
 ---
 
