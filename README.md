@@ -14,10 +14,10 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 **Currently working** as a Research Assistant
-- 🧠 **Currently learning** Deep Learning & Machine Learning
-- ⚡ **Fun fact:** In my free time, I watch *Dexter* and make crochet stars :3
-- 📫 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/saba-seyed-tabaei-00b582248)!
+- **Currently working** as a Research Assistant
+- **Currently learning** Deep Learning & Machine Learning
+- **Fun fact:** In my free time, I watch *Dexter* and make crochet stars :3
+- **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/saba-seyed-tabaei-00b582248)!
 
 ---
 
