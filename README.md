@@ -22,12 +22,12 @@ that are understandable, reliable, and useful to people.
 
 ## 👩‍💻 About Me
 
->I am a final-semester **Computer Engineering** student at Amirkabir University of Technology.
->I work as a **Research Assistant Intern** at the High Performance Computing Center at IPM.
->My main research interest is **Explainable AI**, particularly whether AI-generated explanations faithfully represent the evidence used by a model.
->My current experience includes **computer vision, image captioning, vision-language models, and natural-language explanations**.
->I am currently exploring research across both **computer vision and NLP**.
->Outside research, I enjoy watching *Dexter* and making crochet stars :3
+- I am a final-semester **Computer Engineering** student at Amirkabir University of Technology.
+- I work as a **Research Assistant Intern** at the High Performance Computing Center at IPM.
+- My main research interest is **Explainable AI**, particularly whether AI-generated explanations faithfully represent the evidence used by a model.
+- My current experience includes **computer vision, image captioning, vision-language models, and natural-language explanations**.
+- I am currently exploring research across both **computer vision and NLP**.
+- Outside research, I enjoy watching *Dexter* and making crochet stars :3
 
 ---
 
